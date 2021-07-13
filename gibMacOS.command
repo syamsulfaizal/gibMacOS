@@ -589,3 +589,6 @@ if __name__ == '__main__':
 
     while True:
         g.main(args.dmg)
+                    "sierra" : "10.12",
+
+                
